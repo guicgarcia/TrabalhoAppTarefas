@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarefas</string>
+    <string name="tarefa_editada">Tarefa Editada</string>
+    <string name="tarefa_salva">Tarefa Salva</string>
+    <string name="compartilhando">Compartilhando</string>
+    <string name="tarefa_concluida">Oba! Acabei de concluir: </string>
+    <string name="tarefa_realizada">Tarefa Realiza com Sucesso </string>
+</resources>
